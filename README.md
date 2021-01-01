@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hansung University 깜찍이 개발자 새싹 임유선입니당 🌱
+Hansung University 깜찍이 새싹  임유선입니당 🌱
 
 ### :love_letter: How to reach me
 - Instagram: @yuseon_55
