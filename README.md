@@ -1,4 +1,10 @@
 ### Hi there 👋
+Hansung University 깜찍이 개발자 새싹 임유선입니당 🌱
+
+### :love_letter: How to reach me
+- Instagram: @yuseon_55
+- Blog: https://developeryuseon.tistory.com/
+- Email: lys4486@gmail.com
 
 <!--
 **yuseon-Lim/yuseon-Lim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
