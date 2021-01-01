@@ -4,7 +4,7 @@
 Hansung University 깜찍이 새싹 개발자 임유선입니당 🌱
 
 ### :love_letter: How to reach me
-- Instagram: @yuseon_55
+- Instagram: @yuseoni_55
 - Blog: https://developeryuseon.tistory.com/
 - Email: lys4486@gmail.com
 
