@@ -8,6 +8,8 @@ Hansung University 재학중인 임유선입니당 🌱
 - Blog: https://developeryuseon.tistory.com/
 - Email: lys4486@gmail.com
 
+![My solve.ac profile]((http://mazassumnida.wtf/api/generate_badge?boj=lys4486)
+
 <!--
 **yuseon-Lim/yuseon-Lim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
